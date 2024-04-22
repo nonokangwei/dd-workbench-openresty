@@ -41,6 +41,6 @@ NFS_address="10.97.68.98:/vol1"
 | /home/jupyter/.comfyui_installed | ComfyUI插件安装标识文件，如果文件存在，则不重复安装插件 |
 | /usr/local/openresty/nginx/conf/nginx.conf | nginx配置文件 |
 | /usr/local/openresty/lualib/last_activity.lua | lua更新last_activity文件 |
-| /usr/local/openresty/nginx/log/access.log | nginx访问日志 |
-| /usr/local/openresty/nginx/log/error.log | nginx错误日志 |
+| /usr/local/openresty/nginx/logs/access.log | nginx访问日志 |
+| /usr/local/openresty/nginx/logs/error.log | nginx错误日志 |
 
